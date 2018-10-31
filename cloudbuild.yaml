@@ -2,6 +2,7 @@ steps:
 - name: 'gcr.io/fastlaneci/firebasebuildstep:latest'
   args: [
     --build_id=$BUILD_ID,
+    --project_number=194271443311,
     --build_env=autopush]
   dir: '/fastlane.ci'
 artifacts:
