@@ -1,7 +1,7 @@
 # ios
 
 To compile the project you first have to run
-Interesting!
+Interesting!!
 ```
 bundle install
 rake
